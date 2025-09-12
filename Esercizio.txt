@@ -1,0 +1,16 @@
+Esercizio casa Quant Analyst –Cross-commodity Desk
+    1- Analizza i due contratti elencati nei link sottostanti:
+https://www.ice.com/products/7/Cocoa-Futures 
+https://www.ice.com/products/37089076/London-Cocoa-Futures
+
+
+Quali sono le similarità e differenze tra i due contratti?
+Perché, secondo te, esistono due mercati separati per il cacao?  
+
+    2- In allegato trovi un excel con i dati daily dei due futures. Se volessi costruire una strategia di trading su questi mercati che analisi faresti?
+
+Mostra analisi e risultati. Fornisci una breve spiegazione della strategia individuata 
+
+Libertà di usare software, piattaforme, dati alternativi, ...
+
+
