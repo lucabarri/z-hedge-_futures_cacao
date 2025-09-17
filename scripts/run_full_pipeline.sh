@@ -92,12 +92,12 @@ python scripts/tune_backtest_params.py \
   --test-end ${TEST_END}
 
 echo "[7/9] Run backtests (standard + causal)"
-python scripts/run_backtest.py --use-best-params --compare-causal \
+python scripts/run_backtest.py --compare-causal \
   --train-start ${TRAIN_START} --train-end ${TRAIN_END} \
   --test-start ${TEST_START} --test-end ${TEST_END}
 
 echo "[8/9] Run backtests with tilting (standard + causal)"
-python scripts/run_backtest.py --use-best-params --compare-causal --tilt \
+python scripts/run_backtest.py --compare-causal --tilt \
   --train-start ${TRAIN_START} --train-end ${TRAIN_END} \
   --test-start ${TEST_START} --test-end ${TEST_END}
 
